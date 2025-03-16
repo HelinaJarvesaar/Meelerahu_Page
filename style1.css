@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: cormorant;
+    background-color: #F8F4E3;
+}
+
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 70px 0px 70px;
+    z-index: 1000;
+    background-color: transparent
+}
+
+.logo img {
+    height: 100px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+
+
+.cover-photo {
+    background-image: url(img/avaleht_cover_img.2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #F8F4E3;
+}
+
+.cover-photo h1 {
+    font-size: 48px;
+    padding: 70px 70px;
+}
+
+
+.cover-photo button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid #F8F4E3;
+    border-radius: 10px;
+    color: #F8F4E3;
+    font-family: cormorant;
+}
+
+.cover-photo button:hover {
+    background-color: #3A8394;
+    color: #F8F4E3;
+    transition: 0.7s ease;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+    .logo img{
+        height: 80px;
+    }
+
+    .cover-photo .content{
+        padding-top: 70px;
+
+    }
+    .cover-photo h1{
+        font-size: 40px;
+
+    }
+
+}

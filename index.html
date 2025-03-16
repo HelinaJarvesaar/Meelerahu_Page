@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="et">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meelevaikus</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Radley:ital@0;1&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+    <p id="top"></p>
+
+    <header class="header">
+        <div class="logo">
+            <a href="#top"><img src="img/logo.svg"></a>
+        </div>
+        <div class="navbar">
+            <ul>
+                <il><a href="Lisalugemist.html">Lisalugemist</a></il>
+                <il><a href="jooga.html">Jooga</a></il>
+                <il><a href="helitraapia.html">Heliteraapia</a></il>
+                <il><a href="meditatsioon.html">Meditatsioon</a></il>
+            </ul>
+        </div>
+    </header>
+
+    <div class="cover-photo" id="top">
+        <div class="content">
+            <h1>Meelevaikus on sisemine rahu ja vaikus,</h1>
+            <h1>mis tekib, kui meel on vaba segavatest mõtetest</h1>
+            <button onclick="scrollToSection()">Meelevaikusesse</button>
+        </div>
+    </div>
+
+
+    <div class="tutvustus" id="tutvustus">
+        <h2>Meelevaikus</h2>
+        <p>
+            Meelevaikus on tasakaalu ja rahulolu allikas. Kui meel on vaikne,
+            saab elu selgemaks, hingamine sügavamaks ja kohalolu sügavamaks.
+        </p>
+        <p>Meditatsioon, heliteraapia, jooga ja inspireeriv lugemine moodustavad
+            harmoonilise koosluse, mis aitab sul leida rahu enda sees ning
+            tugevdada keha ja vaimu ühendust.</p>
+
+        <p> Avasta teadlikkuse ja lõdvestuse jõud ning loo endale
+            ruumi tõeliseks puhkuseks ja sisemiseks tasakaaluks.
+        </p>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+            <a href="meditatsioon.html"><img src="img/avaleht_meditatsioon.png" class="image" alt="meditatsioon"
+                    width="400" height="600">
+                <div class="middle">
+                    <div class="text">Meditatsioon</div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+            <a href="meditatsioon.html"><img src="img/avaleht_heli.png" class="image" alt="heliteraapia" width="400"
+                    height="600"></a>
+            <div class="middle">
+                <div class="text">Heliteraapia</div>
+            </div>
+        </div>
+    </div>
+    <div class="responsive">
+        <div class="gallery">
+            <a href="jooga.html"><img src="img/avaleht_jooga.png" class="image" alt="jooga" width="400"
+                    height="600"></a>
+            <div class="middle">
+                <div class="text">Jooga</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+            <a href="jooga.html"><img src="img/avaleht_lugemine.png" class="image" alt="lisalugemist" width="400"
+                    height="600"></a>
+            <div class="middle">
+                <div class="text">Lisalugemist</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <footer class="footer">
+        <div class="privaatsus">
+            <a href="#privaatsuspoliitika">Privaatsuspoliitika</a>
+            <a href="#kasutustingimused">Kasutustingimused</a>
+        </div>
+        <div>
+            <input type="email" id="email" name="email" placeholder="E-maili aadress...">
+            <input type="submit" value="LIITU">
+        </div>
+        <div class="social-icons">
+            <a href="#fb"><img src="img/youtube.svg" alt="Youtube"></a>
+            <a href="#insta"><img src="img/fb.svg" alt="Facebook"></a>
+            <a href="#youtube"><img src="img/insta.svg" alt="Instagram"></a>
+        </div>
+
+    </footer>
+
+    
+    <script>
+        function scrollToSection() {
+            document.querySelector('.tutvustus').scrollIntoView({ behavior: 'smooth' });
+        }
+        /*
+                function scrollToTop() {
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                }*/
+    </script>
+
+
+</body>
+
+</html>
