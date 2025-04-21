@@ -1,3 +1,6 @@
+https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=yABmZ4np61S8Mcxi-1 
+(Figma projekt on valminud koostöös Victoria Palusaluga)
+
 https://helinajarvesaar.github.io/mySecondPage/index.html
 
 <img width="1460" alt="Screenshot 2025-04-21 at 17 48 11" src="https://github.com/user-attachments/assets/8bbc3183-2f85-40aa-b39d-da06f4ffddc9" />
