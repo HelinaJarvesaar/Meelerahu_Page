@@ -1,8 +1,18 @@
 # "Meelerahu" Webpage
 
+## Overview:
+
 - I created this as my graduation/final project to apply design principles, responsive layout, and front-end skills in a live website.
 - While it’s not a product or app, it reflects my evolving design taste and my ability to take a Figma design to functional code.
 - Project is still in progress.
+
+## Technologies Used:
+- Figma
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Links:
 
 [**Figma project**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
 (Figma project is made together with Victoria Palusalu)
@@ -10,7 +20,7 @@
 [**LINK to Responsive Page**](https://helinajarvesaar.github.io/mySecondPage/)
 
 
-**Screenshots:**
+## Screenshots:
 
 <img width="1460" alt="Screenshot 2025-04-21 at 17 48 11" src="https://github.com/user-attachments/assets/8bbc3183-2f85-40aa-b39d-da06f4ffddc9" />
 <img width="1485" alt="Screenshot 2025-04-21 at 17 49 44" src="https://github.com/user-attachments/assets/683bd2df-7fee-4dcc-906d-062e37667071" />
