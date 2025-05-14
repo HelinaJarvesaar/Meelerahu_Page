@@ -7,7 +7,7 @@
 [**Figma project**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
 (Figma project is made together with Victoria Palusalu)
 
-[**Responsive Webpage (HTML5, CSS3, JavaScript)**](https://helinajarvesaar.github.io/mySecondPage/)
+[**LINK to Responsive Page (HTML5, CSS3, JavaScript)**](https://helinajarvesaar.github.io/mySecondPage/)
 
 
 **Screenshots:**
