@@ -1,4 +1,4 @@
-# "Meelerahu" Webpage
+# "Meelerahu" Page
 
 ## Overview:
 
