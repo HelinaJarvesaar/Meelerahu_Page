@@ -2,7 +2,7 @@
 
 ## Overview:
 
-- I created this as my graduation/final project to apply design principles, responsive layout, and front-end skills in a live website.
+- This is my overall second webpage. I created this as my graduation/final project to apply design principles, responsive layout, and front-end skills in a live website. 
 - While it’s not a product or app, it reflects my evolving design taste and my ability to take a Figma design to functional code.
 - Project is still in progress.
 
