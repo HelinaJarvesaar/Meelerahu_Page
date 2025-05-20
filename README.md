@@ -21,10 +21,10 @@
 
 ## Project Links:
 
-[**Figma project**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
+- [**Figma project**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
 (Figma project is made together with Victoria Palusalu)
 
-[**LINK to Responsive Page**](https://helinajarvesaar.github.io/Meelerahu_Page/)
+- [**LINK to Responsive Page**](https://helinajarvesaar.github.io/Meelerahu_Page/)
 
 
 ## Screenshots:
